@@ -1,9 +1,9 @@
 # Projeto_Seed_Imersao
  
 Membros:
-|Lucas Araújo
-|Jorge Lucas
-|Aynoã
+| Lucas Araújo |
+| Jorge Lucas |
+| Aynoã Santos |
 
 Possíveis projetos:
 

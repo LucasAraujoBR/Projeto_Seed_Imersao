@@ -10,6 +10,10 @@
     box-sizing: border-box;
 }
 
+body{    
+    background-color: #ececec;
+}
+
 body,button {
     font-family: "Lexend Deca", sans-serif;
 }
@@ -38,6 +42,10 @@ p {
     border: 2px solid #a9a9a9;
     background-color: #a9a9a9;
     color: #fff;
+}
+
+.btn a{
+    color: #140033;
 }
 
 .bright-orange{
